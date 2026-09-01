@@ -1,6 +1,6 @@
 # VPN Configs
 
-[![Frequent Update](https://github.com/pog7x/vpn-configs/actions/workflows/frequent_update.yml/badge.svg)](https://github.com/pog7x/vpn-configs/actions/workflows/frequent_update.yml)
+[![Frequent Update](https://github.com/gluxbaby/vpn-configs/actions/workflows/frequent_update.yml/badge.svg)](https://github.com/gluxbaby/vpn-configs/actions/workflows/frequent_update.yml)
 
 Automated aggregator that collects free VPN configuration files from multiple open-source repositories across GitHub and mirrors them into a single, regularly updated location.
 
@@ -45,7 +45,7 @@ Automated aggregator that collects free VPN configuration files from multiple op
 
 ```bash
 # Clone the repository
-git clone https://github.com/pog7x/vpn-configs.git
+git clone https://github.com/gluxbaby/vpn-configs.git
 cd vpn-configs
 
 # Install dependencies
